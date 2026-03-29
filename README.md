@@ -15,3 +15,15 @@ This project focuses on analyzing sales performance and customer sentiment for A
 
 ## Preview
 ![Dashboard Preview](dashboard.png.)
+
+## Tools Used
+* **Tableau Public** (Data Visualization)
+* **Microsoft Excel / CSV** (Data Source)
+
+## Preview
+В данном разделе представлен обзор распределения товаров по категориям на Amazon.
+
+![Amazon Sales Analysis](tableau_amazon_sales_categories.png.png)
+
+---
+*Проект выполнен: Jeren Nurnazarova*
