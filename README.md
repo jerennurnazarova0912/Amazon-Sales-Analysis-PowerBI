@@ -14,4 +14,4 @@ This project focuses on analyzing sales performance and customer sentiment for A
 - **Dataset:** Amazon Sales Dataset (CSV)
 
 ## Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png.)
