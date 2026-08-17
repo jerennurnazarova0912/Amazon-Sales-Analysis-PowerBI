@@ -20,7 +20,7 @@ This project focuses on analyzing sales performance and customer sentiment for A
 - SQL (PostgreSQL)
 
 ## Dashboard Preview
-![Dashboard](amazon_powerbi_dashboard.png.png)
+![Dashboard](amazon_powerbi_dashboard_png.png)
 
 ## Tableau Preview
 This section provides an overview of product category distribution on Amazon.
