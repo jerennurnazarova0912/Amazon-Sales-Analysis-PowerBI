@@ -24,7 +24,7 @@ This project focuses on analyzing sales performance and customer sentiment for A
 
 ## Tableau Preview
 This section provides an overview of product category distribution on Amazon.
-![Tableau Categories](tableau_amazon_sales_categories.png)
+![Tableau Categories](tableau_amazon_sales_categories.png.png)
 
 ---
 Developed as part of a self-directed Finance & Data Analytics portfolio.
